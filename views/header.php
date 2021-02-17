@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="author" content="Nassim AHMED ALI">
     <title>Portfolio | Nassim AHMED ALI</title>
-    <link rel="icon" href="assets/images/favicon.png" src="https://icones8.fr/icons/set/libre-de-droits">
+    <link rel="icon" href="../assets/images/favicon.png" src="https://icones8.fr/icons/set/libre-de-droits">
     <!-- Theme Bootstrap -->
     <link rel="stylesheet" href="https://bootswatch.com/4/darkly/bootstrap.min.css" src="https://bootswatch.com">
     <!-- Integration Fontawesome -->
