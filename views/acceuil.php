@@ -8,7 +8,7 @@
                     <div class="row">
                         <div class="container-fluid">
                             <div class="text-center">
-                                <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/nassim.jpg" alt="Image d'un jeune homme superbe et plein d'avenir">
+                                <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../assets/images/nassim.jpg" alt="Image d'un jeune homme superbe et plein d'avenir">
                             </div>
                         </div>
                     </div>
@@ -22,7 +22,7 @@
                     </p>
 
                     <div class="text-center mt-4">
-                        <a class="btn btn-outline-primary" href="assets/pdf/CV_Nassim_AHMEDALI.pdf" style="color: white;">
+                        <a class="btn btn-outline-primary" href="../assets/pdf/CV_Nassim_AHMEDALI.pdf" style="color: white;">
                             <i class="fa fa-download"></i> Mon CV
                         </a>
                     </div>
