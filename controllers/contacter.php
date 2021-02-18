@@ -16,7 +16,7 @@ switch($a)
                 $message = $_POST['message'];
                 $header = 'De ' . $nom . ' ' . $prenom . ' ' . ' : ' . $_POST['email'];
             
-                mail($to,$header,$message);
+                $result = mail($to,$header,$message);
             }        
         }
     break;
