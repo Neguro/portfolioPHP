@@ -46,7 +46,7 @@
 
         <div class="container">
             <div class=".col-12 .col-sm-6 .col-xs-8">
-                <h2 class="display-5 text-center mt-4">Technologie connus</h2>
+                <h2 class="display-5 text-center mt-4">Technologies connus</h2>
 
                 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
                     <ol class="carousel-indicators">
@@ -54,24 +54,24 @@
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
                     </ol>
+                    <div class="text-center">
+                        <div class="carousel-inner">
+                            <!--- Placeholeder--->
+                            <div class="carousel-item active">
+                                <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
+                            </div>
 
-                    <div class="carousel-inner">
-                        <!--- Placeholeder--->
-                        <div class="carousel-item active">
-	                        <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular"/>
-                        </div>
+                            <!--- Placeholeder --->
+                            <div class="carousel-item">
+                                <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker" />
+                            </div>
 
-                        <!--- Placeholeder --->
-                        <div class="carousel-item">
-                            <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker"/>
-                        </div>
-
-                        <!--- Placeholeder--->
-                        <div class="carousel-item">
-                            <img src="../assets/images/git.svg" width="200" height="200" alt="Git"/>
+                            <!--- Placeholeder--->
+                            <div class="carousel-item">
+                                <img src="../assets/images/git.svg" width="200" height="200" alt="Git" />
+                            </div>
                         </div>
                     </div>
-
                     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
                         <span class="glyphicon glyphicon-chevron-left"></span>
                         <span class="sr-only">Précedent</span>
@@ -83,5 +83,6 @@
                 </div>
             </div>
         </div>
+        <br>
     </div>
 </div>
