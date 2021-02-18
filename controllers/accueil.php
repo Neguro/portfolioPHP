@@ -1,3 +1,3 @@
 <?php
 
-include 'views/acceuil.php';
+include 'views/accueil.php';
