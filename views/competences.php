@@ -15,7 +15,7 @@
                                 </div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-start">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Java
@@ -24,7 +24,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-start">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Dev Web
@@ -33,7 +33,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-start">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     SQL
@@ -42,7 +42,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-start">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Unity
@@ -51,8 +51,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
 
-                            <div class="d-flexflex-row-reverse">
-                              <div class="progress">
+                              <div class="progress col align-self-end">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     C#
@@ -62,7 +61,7 @@
                                 </div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-end">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Java
@@ -71,7 +70,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-end">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Dev Web
@@ -80,7 +79,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-end">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     SQL
@@ -89,7 +88,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <br>
-                            <div class="progress">
+                            <div class="progress col align-self-end">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
                                     Unity
