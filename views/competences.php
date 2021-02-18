@@ -7,62 +7,88 @@
                     <hr class="my-4">
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
-                            C#
+                            Dev Logiciel
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 35%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
                         </div>
-                    </div>
-                    <br>
-                    <div class="progress">
-                        <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
-                            Java
-                        </div>
-                        <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             Dev Web
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             SQL
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
-                            Unity
+                            CI/CD
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar" role="progressbar" style="width: 15%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <br>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
+                            Anglais
+                        </div>
+                        <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container" style="padding-bottom: 10px;">
+        <div class="container">
             <div class=".col-12 .col-sm-6 .col-xs-8">
                 <h2 class="display-5 text-center mt-4">Technologies connus</h2>
                 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-bottom: 6px" >  
                     <div class="text-center">
                         <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="../assets/images/c#.svg" width="200" height="200" alt="C#" />
+                            </div>
+
+                            <div class="carousel-item active">
+                                <img src="../assets/images/c++.svg" width="200" height="200" alt="C++" />
+                            </div>
+
+                            <div class="carousel-item active">
+                                <img src="../assets/images/python.svg" width="200" height="200" alt="python" />
+                            </div>
+
                             <!--- Placeholeder--->
                             <div class="carousel-item active">
                                 <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
                             </div>
 
-                            <!--- Placeholeder --->
+                            <div class="carousel-item active">
+                                <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
+                            </div>
+
                             <div class="carousel-item">
                                 <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker" />
                             </div>
 
-                            <!--- Placeholeder--->
                             <div class="carousel-item">
-                                <img src="../assets/images/git.svg" width="200" height="200" alt="Git" />
+                                <img src="../assets/images/git.svg" x="0" y="-5" width="200" height="200" alt="Git" />
+                            </div>
+
+                            <div class="carousel-item active">
+                                <img src="../assets/images/travis.svg" width="200" height="200" alt="Travis" />
+                            </div>
+
+                            <div class="carousel-item active">
+                                <img src="../assets/images/unity.svg" width="200" height="200" alt="Unity" />
+                            </div>
+
+                            <div class="carousel-item active">
+                                <img src="../assets/images/unreal.svg" width="200" height="200" alt="Unreal" />
                             </div>
                         </div>
                     </div>
@@ -76,7 +102,6 @@
                     </a>
                 </div>
             </div>
-        </div>
-        
+        </div>       
     </div>
 </div>
