@@ -7,7 +7,7 @@
         <ul class="sidebar-navigation">
           <li class="header">Navigation</li>
           <li>
-            <a href="index.php?c=acceuil">
+            <a href="index.php?c=accueil">
               <i class="fa fa-home" aria-hidden="true"></i> Home
             </a>
           </li>

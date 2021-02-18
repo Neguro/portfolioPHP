@@ -12,7 +12,7 @@ require "views/sidebar.php";
 switch ($c) 
 {
     case 'accueil':
-        include 'controllers/acceuil.php';
+        include 'controllers/accueil.php';
         break;
     case 'competences':
         include 'controllers/competences.php';
