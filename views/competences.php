@@ -54,20 +54,19 @@
                                 <img src="../assets/images/c#.svg" width="200" height="200" alt="C#" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/c++.svg" width="200" height="200" alt="C++" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/python.svg" width="200" height="200" alt="python" />
                             </div>
 
-                            <!--- Placeholeder--->
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
                             </div>
 
@@ -79,15 +78,15 @@
                                 <img src="../assets/images/git.svg" x="0" y="-5" width="200" height="200" alt="Git" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/travis.svg" width="200" height="200" alt="Travis" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/unity.svg" width="200" height="200" alt="Unity" />
                             </div>
 
-                            <div class="carousel-item active">
+                            <div class="carousel-item">
                                 <img src="../assets/images/unreal.svg" width="200" height="200" alt="Unreal" />
                             </div>
                         </div>
