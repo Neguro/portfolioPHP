@@ -46,62 +46,65 @@
 
         <div class="container">
             <div class=".col-12 .col-sm-6 .col-xs-8">
-                <h2 class="display-5 text-center mt-4">Technologies connus</h2>
-                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-bottom: 6px" >  
-                    <div class="text-center">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="../assets/images/c#.svg" width="200" height="200" alt="C#" />
-                            </div>
+                <div class="jumbotron" style="background: transparent;">
+                    <h2 class="display-5 text-center mt-4">Technologies connus</h2>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-bottom: 6px">
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/c++.svg" width="200" height="200" alt="C++" />
-                            </div>
+                        <div class="text-center">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="../assets/images/c#.svg" width="200" height="200" alt="C#" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/python.svg" width="200" height="200" alt="python" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/c++.svg" width="200" height="200" alt="C++" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/python.svg" width="200" height="200" alt="python" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/symfony.svg" width="200" height="200" alt="Symfony" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/symfony.svg" width="200" height="200" alt="Symfony" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/git.svg" x="0" y="-5" width="200" height="200" alt="Git" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/travis.svg" width="200" height="200" alt="Travis" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/git.svg" x="0" y="-5" width="200" height="200" alt="Git" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/unity.svg" width="200" height="200" alt="Unity" />
-                            </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/travis.svg" width="200" height="200" alt="Travis" />
+                                </div>
 
-                            <div class="carousel-item">
-                                <img src="../assets/images/unreal.svg" width="200" height="200" alt="Unreal" />
+                                <div class="carousel-item">
+                                    <img src="../assets/images/unity.svg" width="200" height="200" alt="Unity" />
+                                </div>
+
+                                <div class="carousel-item">
+                                    <img src="../assets/images/unreal.svg" width="200" height="200" alt="Unreal" />
+                                </div>
                             </div>
                         </div>
+                        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                            <i class="fa fa-arrow-left"></i>
+                            <span class="sr-only">Précedent</span>
+                        </a>
+                        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                            <i class="fa fa-arrow-right"></i>
+                            <span class="sr-only">Suivant</span>
+                        </a>
                     </div>
-                    <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
-                        <i class="fa fa-arrow-left"></i>
-                        <span class="sr-only">Précedent</span>
-                    </a>
-                    <a class="carousel-control-next" href="#myCarousel" data-slide="next">
-                        <i class="fa fa-arrow-right"></i>
-                        <span class="sr-only">Suivant</span>
-                    </a>
                 </div>
                 <br>
             </div>
-        </div>       
+        </div>
     </div>
 </div>
