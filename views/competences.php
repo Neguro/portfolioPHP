@@ -67,11 +67,11 @@
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
-                        <i class="fa fa-arrow-right"></i>
+                        <i class="fa fa-arrow-left"></i>
                         <span class="sr-only">Précedent</span>
                     </a>
                     <a class="carousel-control-next" href="#myCarousel" data-slide="next">
-                        <i class="fa fa-arrow-left"></i>
+                        <i class="fa fa-arrow-right"></i>
                         <span class="sr-only">Suivant</span>
                     </a>
                 </div>
