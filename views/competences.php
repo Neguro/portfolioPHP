@@ -54,30 +54,30 @@
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
                     </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="../assets/images/angular.png" alt="Angular">
+                        </div>
+
+                        <div class="item">
+                            <img src="../assets/images/docker.png" alt="Docker">
+                        </div>
+
+                        <div class="item">
+                            <img src="../assets/images/git.png" alt="Git">
+                        </div>
+                    </div>
+
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Précedent</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Suivant</span>
+                    </a>
                 </div>
-
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <img src="../assets/images/angular.png" alt="Angular">
-                    </div>
-
-                    <div class="item">
-                        <img src="../assets/images/docker.png" alt="Docker">
-                    </div>
-
-                    <div class="item">
-                        <img src="../assets/images/git.png" alt="Git">
-                    </div>
-                </div>
-
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                    <span class="sr-only">Précedent</span>
-                </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                    <span class="sr-only">Suivant</span>
-                </a>
             </div>
         </div>
     </div>
