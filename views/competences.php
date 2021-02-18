@@ -51,7 +51,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
 
-                            <div class="row">
+                            <div class="d-flexflex-row-reverse">
                               <div class="progress">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15"
                                     aria-valuemax="100" style="width: 15%; background-color: grey;">
