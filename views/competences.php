@@ -67,7 +67,7 @@
                             </div>
 
                             <div class="carousel-item">
-                                <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular" />
+                                <img src="../assets/images/symfony.svg" width="200" height="200" alt="Symfony" />
                             </div>
 
                             <div class="carousel-item">
