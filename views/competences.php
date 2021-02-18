@@ -56,24 +56,27 @@
                     </ol>
 
                     <div class="carousel-inner">
-                        <div class="item active">
-                            <img src="../assets/images/angular.png" alt="Angular">
+                        <div class="carousel-item active">
+                            <img src="../assets/images/angular.png" class="d-block w-100" alt="Angular">
+                            <h5>Test</h5>
                         </div>
 
-                        <div class="item">
-                            <img src="../assets/images/docker.png" alt="Docker">
+                        <div class="carousel-item">
+                            <img src="../assets/images/docker.png" class="d-block w-100" alt="Docker">
+                            <h5>Test 2</h5>
                         </div>
 
-                        <div class="item">
-                            <img src="../assets/images/git.png" alt="Git">
+                        <div class="carousel-item">
+                            <img src="../assets/images/git.png" class="d-block w-100" alt="Git">
+                            <h5>Test 3</h5>
                         </div>
                     </div>
 
-                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
                         <span class="glyphicon glyphicon-chevron-left"></span>
                         <span class="sr-only">Précedent</span>
                     </a>
-                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <a class="carousel-control-next" href="#myCarousel" data-slide="next">
                         <span class="glyphicon glyphicon-chevron-right"></span>
                         <span class="sr-only">Suivant</span>
                     </a>
