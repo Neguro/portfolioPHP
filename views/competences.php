@@ -100,6 +100,7 @@
                         <span class="sr-only">Suivant</span>
                     </a>
                 </div>
+                <br>
             </div>
         </div>       
     </div>
