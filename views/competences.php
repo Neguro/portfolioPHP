@@ -44,16 +44,10 @@
             </div>
         </div>
 
-        <div class="container">
+        <div class="container" style="padding-bottom: 10px;">
             <div class=".col-12 .col-sm-6 .col-xs-8">
                 <h2 class="display-5 text-center mt-4">Technologies connus</h2>
-
-                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
-                    <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                    </ol>
+                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-bottom: 6px" >  
                     <div class="text-center">
                         <div class="carousel-inner">
                             <!--- Placeholeder--->
@@ -73,16 +67,16 @@
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <i class="fa fa-arrow-right"></i>
                         <span class="sr-only">Précedent</span>
                     </a>
                     <a class="carousel-control-next" href="#myCarousel" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <i class="fa fa-arrow-left"></i>
                         <span class="sr-only">Suivant</span>
                     </a>
                 </div>
             </div>
         </div>
-        <br>
+        
     </div>
 </div>
