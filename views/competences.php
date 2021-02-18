@@ -46,7 +46,7 @@
 
         <div class="container">
             <div class=".col-12 .col-sm-6 .col-xs-8">
-                <h2 class="display-5 text-center mt-4">Technos</h2>
+                <h2 class="display-5 text-center mt-4">Technologie connus</h2>
 
                 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
                     <ol class="carousel-indicators">
@@ -56,19 +56,19 @@
                     </ol>
 
                     <div class="carousel-inner">
+                        <!--- Placeholeder--->
                         <div class="carousel-item active">
-                            <img src="../assets/images/angular.png" class="d-block w-100" alt="Angular">
-                            <h5>Test</h5>
+	                        <img src="../assets/images/angular.svg" width="200" height="200" alt="Angular"/>
                         </div>
 
+                        <!--- Placeholeder --->
                         <div class="carousel-item">
-                            <img src="../assets/images/docker.png" class="d-block w-100" alt="Docker">
-                            <h5>Test 2</h5>
+                            <img src="../assets/images/docker.svg" width="200" height="200" alt="Docker"/>
                         </div>
 
+                        <!--- Placeholeder--->
                         <div class="carousel-item">
-                            <img src="../assets/images/git.png" class="d-block w-100" alt="Git">
-                            <h5>Test 3</h5>
+                            <img src="../assets/images/git.svg" width="200" height="200" alt="Git"/>
                         </div>
                     </div>
 
