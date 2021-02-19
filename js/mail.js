@@ -13,17 +13,15 @@ $("#contactForm").submit(function (event) {
         method: form_method,
         data: form_data,
         async: false,
-        statusCode: {
-            200: function () {
+    })
+    .success(function () {
                 elem.classList.add('alert alert-success');
                 elem.textContent = "Le mail a bien été envoyer !";
-            },
-            404: function () {
+    })
+    .error(function () {
                 elem.classList.add('alert alert-danger');
                 elem.textContent = "Il semblerait qu'il y ai un souci avec l'envoi de mail !";
-            },
-        }
-    });
+    })
 });
 
 
