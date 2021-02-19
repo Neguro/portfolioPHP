@@ -5,7 +5,7 @@
                 <div class="jumbotron">
                     <form id="contactForm" action="index.php?c=contacter" method="post" role="form">
                         <fieldset>
-                            <legend class="display-5 text-center mt-4">Me contacter</legend>
+                            <h2 class="display-5 text-center mt-4">Me contacter</h2>
                             <hr class="my-4">
                             <div class="form-group">
                                 <label for="email">Adresse email</label>
@@ -24,8 +24,8 @@
                                 <textarea name="message" class="form-control" id="message"></textarea>
                             </div>
                             <button type="submit" class="btn btn-primary">Envoyer</button>
-                            <div id="res"></div>
                         </fieldset>
+                        <div id="res"></div>
                     </form>
                 </div>
                 <br>
