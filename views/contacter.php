@@ -25,8 +25,8 @@
                             </div>
                             <button type="submit" class="btn btn-primary">Envoyer</button>
                         </fieldset>
-                        <div id="res"></div>
                     </form>
+                    <div id="res"></div>
                 </div>
                 <br>
             </div>
