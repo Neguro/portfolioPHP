@@ -48,8 +48,9 @@
             <div class=".col-12 .col-sm-6 .col-xs-8">
                 <div class="jumbotron" style="background: transparent;">
                     <h2 class="display-5 text-center mt-4">Technologies connus</h2>
+                    <hr class="my-4">
+                    <br>
                     <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-bottom: 6px">
-
                         <div class="text-center">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
