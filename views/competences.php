@@ -53,7 +53,7 @@
                         <div class="text-center">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../assets/images/c#.svg" width="200" height="200" alt="C#" />
+                                    <img src="../assets/images/c_sharp.svg" width="200" height="200" alt="C#" />
                                 </div>
 
                                 <div class="carousel-item">
@@ -81,7 +81,7 @@
                                 </div>
 
                                 <div class="carousel-item">
-                                    <img src="../assets/images/travis.svg" width="200" height="200" alt="Travis" />
+                                    <img src="../assets/images/travis_ci.svg" width="200" height="200" alt="Travis" />
                                 </div>
 
                                 <div class="carousel-item">
