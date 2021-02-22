@@ -1,7 +1,8 @@
 <div class="content-container">
     <div class="container-fluid">
+    <div class="container">
         <div class="container">
-            <div class=".col-12 .col-sm-6 .col-xs-8">
+            <div class=".col-12 .col-sm-6 .col-xs-8"> 
                 <div class="jumbotron">
                     <h2 class="display-5 text-center mt-4">A propos</h2>
                     <hr class="my-4">

@@ -22,3 +22,5 @@
     <script src="../js/mail.js"></script>
    
 </head>
+
+<body> 

@@ -29,6 +29,9 @@ switch ($c)
     case 'contacter':
         include 'controllers/contacter.php';
         break;
+    case '404':
+        include 'controllers/404.php';
+        break;
 }
 
 require 'views/footer.php';
