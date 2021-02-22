@@ -2,8 +2,8 @@
 
 $("#contactForm").submit(function (event) {
     event.preventDefault(); // annule l'action par défaut (on ne veut pas que la page se recharge)
-    var form_url = "contacter.php"; // récupére l'URL du formulaire
-    var form_method = "POST" //récupére la méthode GET/POST du formulaire
+    var form_url = $(this).attr("action"); // récupére l'URL du formulaire
+    var form_method = $(this).attr("method"); //récupére la méthode GET/POST du formulaire
     var form_data = $(this).serialize(); // encode les éléments du formulaire pour la soumission
 
     // requete d'envoi mail en ajax
