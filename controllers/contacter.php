@@ -1,6 +1,6 @@
 <?php
 
-include 'views/contacter.php';
+include_once 'views/contacter.php';
 
 if (isset($_POST) && !empty($_POST['email']) && !empty($_POST['nom']) && !empty($_POST['prenom']) && !empty($_POST['message'])) 
 {
