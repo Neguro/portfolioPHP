@@ -11,4 +11,5 @@ if (isset($_POST) && !empty($_POST['email']) && !empty($_POST['nom']) && !empty(
     $header = 'De ' . $nom . ' ' . $prenom . ' ' . ' : ' . $_POST['email'];
 
     $result = mail($to, $header, $message);
+    echo json_encode($result);
 }
