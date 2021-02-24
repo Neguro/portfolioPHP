@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $('form').submit(function (event) {
-        event.preventDefault();
+        
         var form_url = $(this).attr("action"); // récupére l'URL du formulaire
         var form_method = $(this).attr("method"); //récupére la méthode du formulaire
         var form_data = $(this).serialize(); // encode les éléments du formulaire pour la soumission
@@ -18,7 +18,8 @@ $(document).ready(function () {
                 $('#res').addClass('alert alert-danger').html("Il semblerait qu'il y ai un souci avec l'envoi de mail !");
                 $('form').trigger("reset");
             }
-        })
+        });
+        event.preventDefault();
     })
 })
 
