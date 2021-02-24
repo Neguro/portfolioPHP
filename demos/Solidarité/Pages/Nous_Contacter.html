@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!--
+        Projet solidarité : index.html
+        author: Nassim AHMED ALI
+-->
+<html lang="fr">
+    <head>
+        <title>Bonaparte solidaire de nos héros du quotidient !</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css">
+        <link rel="icon" href="favicon.ico">
+    </head>
+    <body>
+        <!-- barre de navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Solidarité - Team Pomodoro(Nassim)</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="..\index.html">Acceuil <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Nous Contacter</a>
+                    </li>
+
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Rechercher">
+                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Rechercher</button>
+                </form>
+            </div>
+        </nav>
+
+        <!-- Header -->
+        <div class ="container">
+            <div class="page-header" id="banner">
+                <div class="row">
+                    <div class="col-lg-12 col-md-8 col-sm-10">
+                        <h1 class="text-center">Covid19</h1>
+                        <img style="width: 15%;" src="..\images\logo-merci2.png" alt="Logo de remerciements n°2 - Des pictogrammes représentants tous les métiers actuellement sollicités et le message merci">
+                        <img style="width: 15%;" class="offset-lg-8" src="..\images\logo-merci1.png" alt="Logo de remerciements n°1 - Un coeur dans une main et le message merci à tous nos héros du quotidien">
+                        <div class="lead">
+                            <p class="text-center">
+                                Le Lycée Bonaparte de Toulon, sa communauté scolaire et son réseau se mobilisent pour adresser leurs remerciements et leur soutien à nos héros du quotidien.
+                            </p>
+                        </div>                
+                    </div>
+                </div>
+
+                <!-- Contenu Principal -->
+                <div class="jumbotron">
+                    <h1 class="display-5">Nous Contacter</h1>
+                    <hr class="my-3">
+                    <p class="text">
+                    <p>
+                        Le COVID19 est un virus qui s’attrape très facilement. Pour ne pas l’attraper, il faut se protéger même si on le voit pas :                        
+                    </p>
+                    <p>
+                        ➡ se laver les mains très souvent
+                    </p>
+                    <p>
+                        ➡ ne pas rester trop près des gens, surtout s’ils toussent
+                    </p>
+                    <p>
+                        ➡ rester chez soi
+                    </p>
+
+                    <p>
+                        Si vous aviez était sensible à c'est différents travaux apporter par les 
+                        enseignants et leurs élèves, et que vous vouliez aidez à "lutter" contre 
+                        cette crise sanitaire, on va vous expliquez.
+                    </p>
+                    <p>
+                        Même si le confinement est désormais clos, le virus lui vie toujours. Les hopitaux
+                        sont toujours là entrain de travailler pour la santé de tous, et c'est un grand
+                        courage qu'ils ont. Mais vous, vous voulez apporter une pierre à l'édifice dans cette lutte?
+                    </p>
+                    <p>
+                        Si c'est le cas, vous pouvez montrer votre soutien envers les héros du quotidien.
+                        Vous pouvez participer, comme nous l'avons fait, avec des créations comme des hommages
+                        ou production. Nous sommes ouverts à tout soutien, le plus petit soit-il, pour
+                        encourager les personnels qui lutte pour nous.
+                    </p>
+                    <p>
+                        Mais si vous voulez vraiment aider encore plus, vous pouvez bien entendu aider à travers
+                        des dons a des associations tels que la Fondation de France, et tout autres associations
+                        luttant contre ce virus.
+                    </p>
+
+                    <p>
+                        Bien-entendu ne vous forfcez à rien. Le simple fait de visiter ce site
+                        est déjà une aide précieuse. N'oubliez pas, lavez-vous les mains !
+                    </p>
+                    <p>
+                        Ecrit par Thibault LAUDE. 
+                    </p>
+                    </p>  
+                </div>
+
+                <!-- video prevention -->
+                <div class="jumbotron">
+                    <h1 class="display-5">Petit rappel des gestes barrieres :</h1>
+                    <hr class="my-3">
+                    <iframe frameborder="0" width="960" height="540" class="col-12"
+                            src="https://www.youtube.com/embed/5iaWe5fLP6g">
+                    </iframe>
+                </div>
+
+                <!-- Formulaire -->
+                <div class="jumbotron">
+                    <h1 class="display-5">Formulaire :</h1>
+                    <hr class="my-3">
+                    <section id="contact">
+                        <form name="form_contact" action="http://gil83.fr/nolark/testforms.php" method="POST">
+                            <fieldset id="coordo">
+                                <legend>Pour mieux vous connaître</legend>
+                                <div><label for="i_nom">Votre nom :</label> <input type="text" name="i_nom" id="i_nom" size="35" pattern="^[a-zA-ZáàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ\s\-]+$" required><div class="input-validation"></div></div>
+                                <div><label for="i_prenom">Votre prénom :</label> <input type="text" name="i_prenom" id="i_prenom" size="35" pattern="^[a-zA-ZáàâäãåçéèêëíìîïñóòôöõúùûüýÿæœÁÀÂÄÃÅÇÉÈÊËÍÌÎÏÑÓÒÔÖÕÚÙÛÜÝŸÆŒ\s\-]+$" required><div class="input-validation"></div></div>
+                                <div><label for="i_email">Votre e-mail :</label> <input type="email" name="i_email" id="i_email" size="35" pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required><div class="input-validation"></div></div>
+
+                                <div>
+                                    <label for="lst_typeclient">Vous êtes : </label>
+                                    <select name="lst_typeclient" id="lst_typeclient">
+                                        <option value="1">Étudiant</option>
+                                        <option value="2">Salarié du privé</option>
+                                        <option value="3">Salarié du public</option>
+                                        <option value="4">Chef d'entreprise</option>
+                                        <option value="5">Journaliste</option>
+                                        <option value="99">Autre statut</option>
+                                    </select>
+                                </div>
+
+                            </fieldset>
+                            <fieldset id="motif">
+                                <legend>Motif du contact</legend>
+                                <div><input type="radio" name="rd_motif" value="deminfo" id="rd_deminfo"> <label for="rd_deminfo">Demande d'information</label></div>
+                                <div><input type="radio" name="rd_motif" value="reclam" id="rd_reclam"> <label for="rd_reclam">Nous soutenir</label></div>
+                                <div><label for="area_precisions">Votre petit message :</label><br><textarea name="area_precisions" id="area_precisions" cols="35" rows="10"></textarea></div>
+                            </fieldset>
+                            <div id="controles"><input type="button" id="btn_envoyer" name="sub_envoyer" value="Envoyer votre message"> <input type="reset" name="rst_annuler" value="Effacer les réponses"></div>
+                        </form>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <footer class="text-center" id="footer">
+                <p>Contacts : <a href="mailto:arnaud.grulier@ac-nice.fr">arnaud.grulier@ac-nice.fr</a> ou <a href="mailto:frederic.lassarre@ac-nice.fr">frederic.lassarre@ac-nice.fr</a></p>
+            </footer>
+
+            <!-- script jquery, popperJS, bootstrapCDN-->
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    </body>
+</html>

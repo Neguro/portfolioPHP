@@ -11,11 +11,11 @@
                                     <div class="card-body">
                                         <h5 class="card-title">GSB</h5>
                                         <p class="card-text">
-                                            Réaliser en équipe consistant à la création d'une application web gérant 
+                                            Création d'une application web gérant 
                                             des visiteur medicaux et des comptable pour la société Galaxy Swiss Bourdin.
                                         </p>
                                         <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://nassim.ahmedali.me/demos/GSB" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a href="../demos/GSB" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                                             Projet réaliser en équipe consistant à la création d'un site web
                                         </p>
                                         <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://nassim.ahmedali.me/demos/Nolark" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a href="../demos/Nolark" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                                             Projet réaliser en équipe consistant à la création d'un site web            
                                         </p>
                                         <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://nassim-ahmedali.me/demos/Solidarité" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a href="../demos/Solidarité" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
