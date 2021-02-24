@@ -3,7 +3,7 @@
         <div class="container">
             <div class=".col-12 .col-sm-6 .col-xs-8">
                 <div class="jumbotron">
-                    <form id="contactForm" action="../controller/contacter.php" method="post">
+                    <form id="contactForm" action="index.php?c=contacter" method="post">
                         <fieldset>
                             <h2 class="display-5 text-center mt-4">Me contacter</h2>
                             <hr class="my-4">
