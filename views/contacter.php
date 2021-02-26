@@ -24,7 +24,7 @@
                                 <textarea name="message" class="form-control" id="message"></textarea>
                             </div>
                             <button type="submit" class="btn btn-primary">Envoyer</button>
-                            <br>
+                            <br><br>
                             <div id="res"></div>
                         </fieldset>
                     </form>

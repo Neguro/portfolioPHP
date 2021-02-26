@@ -21,11 +21,6 @@
           </a>
         </li>
         <li>
-          <a href="index.php?c=passions">
-            <i class="fa fa-heart" aria-hidden="true"></i> Mes Passions
-          </a>
-        </li>
-        <li>
           <a href="index.php?c=veille">
             <i class="fa fa-sticky-note-o" aria-hidden="true"></i> Veille
           </a>
