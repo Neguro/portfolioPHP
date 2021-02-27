@@ -21,7 +21,7 @@
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card">
-                                <img src="../assets/images/visual_studio_code.svg" class="card-img-top" height="150" width="150"  alt="...">
+                                <img src="../assets/images/PowerShell.svg" class="card-img-top" height="150" width="150"  alt="...">
                                     <div class="card-body">
                                         <h5 class="card-title">Build_Project</h5>
                                         <p class="card-text">
