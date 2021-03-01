@@ -27,8 +27,7 @@
                             <br><br>
                             <div id="res"></div>
                         </fieldset>
-                    </form>
-                    
+                    </form>   
                 </div>
                 <br>
             </div>

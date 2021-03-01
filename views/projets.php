@@ -7,6 +7,19 @@
                         <div class="row">
                         <div class="col-lg-4 mb-4">
                                 <div class="card">
+                                <img src="../assets/images/angular.svg" class="card-img-top" height="150" width="150" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Sira</h5>
+                                        <p class="card-text">
+                                            Projet sur lequel j'ai travailler durant mon stage de seconde année de bts.
+                                            Frontend réaliser avec Angular Backend avec NodeJS et Express.
+                                        </p>
+                                        <a href="index.php?c=sira" class="btn btn-outline-success btn-sm">En savoir +</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
                                 <img src="../assets/images/php.svg" class="card-img-top" height="150" width="150" alt="...">
                                     <div class="card-body">
                                         <h5 class="card-title">GSB</h5>
@@ -77,8 +90,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Portfolio</h5>
                                         <p class="card-text">
-                                            Dépôt github de mon portfolio réaliser dans le cadre de mon BTS SIO,
-                                            fait avec bootstrap CDN et beaucoup de cafés.<br>
+                                            Powered by bootstrap + café spoiler vous naviguer dessus.
                                         </p>
                                         <a href="https://github.com/Neguro/portfolioPHP" class="btn btn-outline-success btn-sm">Lien dépôt
                                             github</a>

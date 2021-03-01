@@ -8,6 +8,7 @@ if (empty($c))
 
 require "views/header.php";
 require "views/sidebar.php";
+require "views/banniere.php";
 
 switch ($c) 
 {
@@ -31,6 +32,9 @@ switch ($c)
         break;
     case '404':
         include 'controllers/404.php';
+        break;
+    case 'sira':
+        include 'controllers/sira.php';
         break;
     default:
         include 'controllers/404.php';
