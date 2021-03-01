@@ -23,7 +23,7 @@
                     </p>
 
                     <div class="text-center mt-4">
-                        <a class="btn btn-outline-primary" href="../assets/pdf/CV_Nassim_AHMEDALI.pdf" style="color: white;">
+                        <a class="btn btn-outline-primary" href="../assets/pdf/CV_Nassim_AHMEDALI_V2.pdf" style="color: white;">
                             <i class="fa fa-download"></i> Mon CV
                         </a>
                     </div>
