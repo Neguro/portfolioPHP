@@ -39,9 +39,9 @@
 class PdoGsb
 {
     private static $serveur = 'mysql:host=localhost';
-    private static $bdd = 'dbname=gsb_frais';
-    private static $user = 'userGsb';
-    private static $mdp = 'secret';
+    private static $bdd = 'dbname=gsb';
+    private static $user = 'nassimah';
+    private static $mdp = '';
     private static $monPdo;
     private static $monPdoGsb = null;
 
