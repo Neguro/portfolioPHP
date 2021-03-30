@@ -26,7 +26,7 @@ class PdoGsb
     private static $serveur = 'mysql:host=localhost:3306';
     private static $bdd = 'dbname=gsb';
     private static $user = 'nassimah';
-    private static $mdp = '';
+    private static $mdp = 'Lp_ql209';
     private static $monPdo;
     private static $monPdoGsb = null;
 
