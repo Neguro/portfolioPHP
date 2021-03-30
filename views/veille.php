@@ -32,7 +32,7 @@
                         non placerat sem vestibulum in. Donec at eleifend dolor. Morbi vitae varius lacus. Integer quis augue bibendum,
                         porta mauris nec, pulvinar est. Praesent at arcu arcu. Cras porttitor velit nunc. Mauris nunc dolor, feugiat vel tristique a,
                         tincidunt ac eros. Fusce iaculis viverra sem a dictum. Etiam vehicula, nisi sed convallis ultricies, lacus risus sodales sapien,
-                        malesuada finibus dolor eros nec turpis.
+                        malesuada finibus dolor eros nec turpis...
                     <p>
 
                         <hr class="my-4">
