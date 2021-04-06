@@ -34,6 +34,19 @@
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card">
+                                <img src="../assets/images/symfony.svg" class="card-img-top" height="150" width="150" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Maison des ligues</h5>
+                                        <p class="card-text">
+                                            Projet réaliser en équipe consistant à la création d'une application web.           
+                                        </p>
+                                        <a href="https://github.com/team-pomodoro/Maison-des-ligues" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a href="#" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
                                 <img src="../assets/images/PowerShell.svg" class="card-img-top" height="150" width="150"  alt="...">
                                     <div class="card-body">
                                         <h5 class="card-title">Build_Project</h5>
