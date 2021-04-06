@@ -4,7 +4,7 @@
             <div class="container">
                 <div class=".col-12 .col-sm-6 .col-xs-8">
                     <div class="jumbotron">
-                        <h2 class="display-5 text-center mt-4">Nassim AHMED ALI | Etudiant BTS SIO</h2>
+                        <h2 class="display-5 text-center mt-4">Nassim AHMED ALI | Etudiant en BTS SIO</h2>
                         <hr class="my-4">
                         <div class="row">
                             <div class="container-fluid">
@@ -18,6 +18,7 @@
                             Passioné de l'informatique et toujours désireux d'en apprendre plus.
                             Vous pouvez retrouver sur ce portfolio toutes mes différentes réalisations, projets,
                             expériences et tous autre choses a mon sujet.
+                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans. 
                         </p>
                         <div class="text-center mt-4">
                             <a class="btn btn-outline-primary" data-toggle="modal" data-target="#cv" style="color: white;">
@@ -32,12 +33,15 @@
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-body">
-                            <embed src="../assets/pdf/CV_Nassim_AHMEDALI_V2.pdf" type="application/pdf" />
+                            <img class="img-fluid" src="../assets/images/CV_Nassim_AHMEDALI_V2-1.png" alt="CV de Nassim AHMED ALI">
                         </div>
                         <div class="modal-footer">
                             <div class="text-center mt-4">
                                 <a class="btn btn-outline-primary" data-dismiss="modal" style="color: white;">
-                                    <i class="fas fa-window-close"></i> Quitter
+                                    <i class="far fa-window-close"></i> Quitter
+                                </a>
+                                <a href="../assets/pdf/CV_Nassim_AHMEDALI_V2.pdf" class="btn btn-outline-danger btn-sm">
+                                    <i class="fa fa-download"></i> Télécharger
                                 </a>
                             </div>
                         </div>
