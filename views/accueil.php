@@ -36,11 +36,11 @@
                             <img class="img-fluid" src="../assets/images/CV_Nassim_AHMEDALI_V2-1.png" alt="CV de Nassim AHMED ALI">
                         </div>
                         <div class="modal-footer">
-                            <div class="text-center mt-4">
-                                <a class="btn btn-outline-primary" data-dismiss="modal" style="color: white;">
+                            <div class="text-center">
+                                <a class="btn btn-outline-primary btn-sm" data-dismiss="modal" style="color: white;">
                                     <i class="far fa-window-close"></i> Quitter
                                 </a>
-                                <a href="../assets/pdf/CV_Nassim_AHMEDALI_V2.pdf" class="btn btn-outline-danger btn-sm">
+                                <a href="../assets/pdf/CV_Nassim_AHMEDALI_V2.pdf" class="btn btn-outline-danger btn-sm" download>
                                     <i class="fa fa-download"></i> Télécharger
                                 </a>
                             </div>
