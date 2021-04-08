@@ -34,7 +34,9 @@
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card">
-                                <img src="../assets/images/symfony.svg" class="card-img-top" height="150" width="150" alt="...">
+                                <div class="text-center">
+                                <img src="../assets/images/symfony.svg" class="card-img-top " height="150" width="150" alt="...">
+                                </div>
                                     <div class="card-body">
                                         <h5 class="card-title">Maison des ligues</h5>
                                         <p class="card-text">
