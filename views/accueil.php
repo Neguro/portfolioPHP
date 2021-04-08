@@ -17,7 +17,7 @@
                         <p>
                             Passioné d'informatique et toujours désireux d'en apprendre plus.
                             Vous pouvez retrouvez sur ce portfolio mes différentes : réalisations, projet, etc...
-                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans.
+                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans.<br>
                             Je suis également passionné par la lecture (Manga, BD, ...), les voyages (culturel) et jeux video (J-RPG en tout genres il m'arrive d'en crée aussi),
                             et un amateur d'échecs et de bon café !  
                         </p>
@@ -101,6 +101,16 @@
                             <div class="resume-section-content">
                                 <h2 class="display-5 text-center mt-4">Mon parcours scolaire</h2>
                                 <hr class="my-5">
+                                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                                    <div class="flex-grow-1">
+                                        <h3 class="mb-0">Cycle d'ingénierie en informatique</h3>
+                                        <div class="subheading mb-3">Institut G4 - Marseille</div>
+                                        <p>
+                                            Cycle d'ingénierie en informatique en 3 ans.
+                                        </p>
+                                    </div>
+                                    <div class="flex-shrink-0"><span class="text-primary">Septembre 2021 - 2024</span></div>
+                                </div>
                                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                                     <div class="flex-grow-1">
                                         <h3 class="mb-0">BTS Services Informatiques aux Organisations</h3>
