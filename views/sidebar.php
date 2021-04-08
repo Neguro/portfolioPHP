@@ -32,12 +32,12 @@
         </li>
         <li class="header">Résaux Sociaux</li>
         <li>
-          <a href="https://github.com/Neguro">
+          <a target="_blank" href="https://github.com/Neguro">
             <i class="fa fa-github" aria-hidden="true"></i> Github
           </a>
         </li>
         <li>
-          <a href="https://fr.linkedin.com/in/nassim-ahmed-ali-38799417a">
+          <a target="_blank" href="https://fr.linkedin.com/in/nassim-ahmed-ali-38799417a">
             <i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin
           </a>
         </li>
