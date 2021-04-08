@@ -15,10 +15,11 @@
                         </div>
                         <br>
                         <p>
-                            Passioné de l'informatique et toujours désireux d'en apprendre plus.
-                            Vous pouvez retrouver sur ce portfolio toutes mes différentes réalisations, projets,
-                            expériences et tous autre choses a mon sujet.
-                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans. 
+                            Passioné d'informatique et toujours désireux d'en apprendre plus.
+                            Vous pouvez retrouvez sur ce portfolio mes différentes : réalisations, projet, etc...
+                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans.
+                            Je suis également passionné par la lecture (Manga, BD, ...), les voyages (culturel) et jeux video (J-RPG en tout genres il m'arrive d'en crée aussi),
+                            et un amateur d'échecs et de bon café !  
                         </p>
                         <div class="text-center mt-4">
                             <a class="btn btn-outline-primary" data-toggle="modal" data-target="#cv" style="color: white;">
