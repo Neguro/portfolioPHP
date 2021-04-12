@@ -14,7 +14,7 @@
                                             Projet sur lequel j'ai travailler durant mon stage de seconde année de bts.
                                             Frontend réaliser avec Angular Backend avec NodeJS et Express.
                                         </p>
-                                        <a href="index.php?c=sira" class="btn btn-outline-success btn-sm">En savoir +</a>
+                                        <a target="_blank" href="index.php?c=sira" class="btn btn-outline-success btn-sm">En savoir +</a>
                                     </div>
                                 </div>
                             </div>
@@ -27,8 +27,8 @@
                                             Création d'une application web gérant 
                                             des visiteur medicaux et des comptable pour la société Galaxy Swiss Bourdin.
                                         </p>
-                                        <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="../demos/GSB" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="../demos/GSB" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                                             Petit script d'automatisation de création d'un projet web symfony, réaliser
                                             dans le cadre de mon BTS SIO afin de gagner du temps.
                                         </p>
-                                        <a href="https://github.com/Neguro/build_project" class="btn btn-outline-success btn-sm">Lien dépôt
+                                        <a target="_blank" href="https://github.com/Neguro/build_project" class="btn btn-outline-success btn-sm">Lien dépôt
                                             github</a>
                                     </div>
                                 </div>
@@ -55,7 +55,7 @@
                                             Projet réaliser en Java dans le but de tester la communication entre un client et un serveur,
                                             pour un projet d'application android.
                                         </p>
-                                        <a href="#" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="#" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                         <p class="card-text">
                                          Projet réaliser en équipe consistant à la création d'une application android dans le cadre d'un projet en PPE.
                                         </p>
-                                        <a href="https://github.com/Android-Gageio" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="https://github.com/Android-Gageio" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                                             Création d'un service windows éxecuter en tache de fond dans le cadre
                                             d'un projet pour le BTS.
                                         </p>
-                                        <a href="https://github.com/dussartcorp/GSB_gestion_cloture" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="https://github.com/dussartcorp/GSB_gestion_cloture" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
                                         <p class="card-text">
                                             Powered by bootstrap + café. (Spoiler : vous naviguer dessus.)
                                         </p>
-                                        <a href="https://github.com/Neguro/portfolioPHP" class="btn btn-outline-success btn-sm">Lien dépôt
+                                        <a target="_blank" href="https://github.com/Neguro/portfolioPHP" class="btn btn-outline-success btn-sm">Lien dépôt
                                             github</a>
                                     </div>
                                 </div>
@@ -105,8 +105,8 @@
                                         <p class="card-text">
                                             Projet réaliser en équipe consistant à la création d'un site web
                                         </p>
-                                        <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="../demos/Nolark" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="../demos/Nolark" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -118,8 +118,8 @@
                                         <p class="card-text">
                                             Projet réaliser en équipe consistant à la création d'un site web            
                                         </p>
-                                        <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="../demos/Solidarité" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="../demos/Solidarité" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -133,8 +133,8 @@
                                         <p class="card-text">
                                             Projet réaliser en équipe consistant à la création d'une application web.           
                                         </p>
-                                        <a href="https://github.com/team-pomodoro/Maison-des-ligues" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="#" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/team-pomodoro/Maison-des-ligues" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="#" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -148,8 +148,8 @@
                                         <p class="card-text">
                                             Projet réaliser dans le cadre d'une formation sur angular.          
                                         </p>
-                                        <a href="https://github.com/Neguro/premier-projet" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://premier-projet.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/Neguro/premier-projet" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="https://premier-projet.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -163,8 +163,8 @@
                                         <p class="card-text">
                                             Projet réaliser dans le cadre d'une formation sur angular.           
                                         </p>
-                                        <a href="https://github.com/Neguro/bibliotheque" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://biblio-angular.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/Neguro/bibliotheque" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="https://biblio-angular.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
@@ -178,8 +178,8 @@
                                         <p class="card-text">
                                             Projet réaliser dans le cadre d'une formation sur angular.        
                                         </p>
-                                        <a href="https://github.com/Neguro/blog" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="https://blog-angular-app.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                        <a target="_blank" href="https://github.com/Neguro/blog" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a target="_blank" href="https://blog-angular-app.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
