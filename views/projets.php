@@ -34,21 +34,6 @@
                             </div>
                             <div class="col-lg-4 mb-4">
                                 <div class="card">
-                                <div class="text-center">
-                                <img src="../assets/images/symfony.svg" class="card-img-top " height="150" width="150" alt="...">
-                                </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">Maison des ligues</h5>
-                                        <p class="card-text">
-                                            Projet réaliser en équipe consistant à la création d'une application web.           
-                                        </p>
-                                        <a href="https://github.com/team-pomodoro/Maison-des-ligues" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
-                                        <a href="#" class="btn btn-outline-danger btn-sm">Voir démo</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 mb-4">
-                                <div class="card">
                                 <img src="../assets/images/PowerShell.svg" class="card-img-top" height="150" width="150"  alt="...">
                                     <div class="card-body">
                                         <h5 class="card-title">Build_Project</h5>
@@ -105,7 +90,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Portfolio</h5>
                                         <p class="card-text">
-                                            Powered by bootstrap + café spoiler vous naviguer dessus.
+                                            Powered by bootstrap + café. (Spoiler : vous naviguer dessus.)
                                         </p>
                                         <a href="https://github.com/Neguro/portfolioPHP" class="btn btn-outline-success btn-sm">Lien dépôt
                                             github</a>
@@ -135,6 +120,66 @@
                                         </p>
                                         <a href="https://github.com/dussartcorp/Gsb" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
                                         <a href="../demos/Solidarité" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
+                                <div class="text-center">
+                                <img src="../assets/images/symfony.svg" class="card-img-top " height="150" width="150" alt="...">
+                                </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Maison des ligues</h5>
+                                        <p class="card-text">
+                                            Projet réaliser en équipe consistant à la création d'une application web.           
+                                        </p>
+                                        <a href="https://github.com/team-pomodoro/Maison-des-ligues" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a href="#" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
+                                <div class="text-center">
+                                <img src="../assets/images/angular.svg" class="card-img-top " height="150" width="150" alt="...">
+                                </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">NWS</h5>
+                                        <p class="card-text">
+                                            Projet réaliser dans le cadre d'une formation sur angular.          
+                                        </p>
+                                        <a href="https://github.com/Neguro/premier-projet" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a href="https://premier-projet.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
+                                <div class="text-center">
+                                <img src="../assets/images/angular.svg" class="card-img-top " height="150" width="150" alt="...">
+                                </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Bibliotheque</h5>
+                                        <p class="card-text">
+                                            Projet réaliser dans le cadre d'une formation sur angular.           
+                                        </p>
+                                        <a href="https://github.com/Neguro/bibliotheque" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a href="https://biblio-angular.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 mb-4">
+                                <div class="card">
+                                <div class="text-center">
+                                <img src="../assets/images/angular.svg" class="card-img-top " height="150" width="150" alt="...">
+                                </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">Blog</h5>
+                                        <p class="card-text">
+                                            Projet réaliser dans le cadre d'une formation sur angular.        
+                                        </p>
+                                        <a href="https://github.com/Neguro/blog" class="btn btn-outline-success btn-sm">Lien dépôt github</a>
+                                        <a href="https://blog-angular-app.herokuapp.com" class="btn btn-outline-danger btn-sm">Voir démo</a>
                                     </div>
                                 </div>
                             </div>
