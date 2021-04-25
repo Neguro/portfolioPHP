@@ -9,7 +9,7 @@
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             Dev Logiciel
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 45%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
                         </div>
                     </div>
                     <br>
@@ -17,28 +17,28 @@
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             Dev Web
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             SQL
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 25%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             CI/CD
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 15%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 15%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     <br>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="15" aria-valuemax="100" style="width: 15%; background-color: grey;">
                             Anglais
                         </div>
-                        <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 55%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>
