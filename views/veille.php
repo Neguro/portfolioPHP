@@ -3,16 +3,17 @@
         <div class="container" role="main">
             <div class=".col-12 .col-sm-6 .col-xs-8">
                 <div class="jumbotron">
-                    <h2 class="display-5 text-center mt-4">Veille</h2>
+                    <h2 class="display-5 text-center mt-4">Veille technologique</h2>
                     <hr class="my-4">
                     <p>
-                        La veille informative est une activité continue
-                        en grande partie itérative visant à une surveillance active de l'environnement technologique, commercial, etc.,
-                        pour en anticiper les évolutions.
-                        Plutôt que de vous montrer un exemple de veille je vais vous donner quelques outils que je trouve essentiel selon moi
-                        pour pouvoir se tenir a jour sur le monde de l'informatique.
+                        La veille technologique et un élément de la veille stratégique et consiste à surveiller les évolutions techniques, les innovations dans un secteur d’activité donnée. 
+                        La veille technologique comprend la surveillance, la collecte, le partage et la diffusion d’information permettant d’anticiper ou de s’informer sur 
+                        des changements en matière de recherche, développement, brevet, lancement de nouveaux produits, matériaux, processus, concepts, innovation de fabrication, etc…. 
+                        Cela a pour but d’évaluer l’impact sur l’environnement et l’organisation.
                     </p>
                     <br>
+
+                    <h4>Les principaux outils de ma veille : </h4>
 
                     <div class="container-fluid">
                         <div class="text-center">
@@ -22,17 +23,12 @@
                     <br>
 
                     <img class="img-fluid" src="../assets/images/daily_dev_ex.png" alt="dailydev">
-                    <br>
+                    <br><br>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus ut tortor et accumsan.
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        Donec ultrices orci sit amet elit bibendum, at euismod eros posuere. Sed quis neque turpis.
-                        Ut at finibus ante. Phasellus aliquet vestibulum mi, ac sodales dolor. Nulla suscipit lorem lorem,
-                        non placerat sem vestibulum in. Donec at eleifend dolor. Morbi vitae varius lacus. Integer quis augue bibendum,
-                        porta mauris nec, pulvinar est. Praesent at arcu arcu. Cras porttitor velit nunc. Mauris nunc dolor, feugiat vel tristique a,
-                        tincidunt ac eros. Fusce iaculis viverra sem a dictum. Etiam vehicula, nisi sed convallis ultricies, lacus risus sodales sapien,
-                        malesuada finibus dolor eros nec turpis...
+                        Daily.dev est une extension disponible sur la majorité des navigateurs que je recommande a tout le monde.
+                        c'est l'outil qui me permet tout les jours pour me tenir au courant quotidienement de l'evolution des technologies
+                        que j'utilise et du monde de la tech en général en se basant notament sur mon historique de recherche.
                     <p>
 
                         <hr class="my-4">
@@ -45,17 +41,12 @@
                     <br>
 
                     <img class="img-fluid" src="../assets/images/feedly_ex.png" alt="feedly">
-                    <br>
+                    <br><br>
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus ut tortor et accumsan.
-                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        Donec ultrices orci sit amet elit bibendum, at euismod eros posuere. Sed quis neque turpis.
-                        Ut at finibus ante. Phasellus aliquet vestibulum mi, ac sodales dolor. Nulla suscipit lorem lorem,
-                        non placerat sem vestibulum in. Donec at eleifend dolor. Morbi vitae varius lacus. Integer quis augue bibendum,
-                        porta mauris nec, pulvinar est. Praesent at arcu arcu. Cras porttitor velit nunc. Mauris nunc dolor, feugiat vel tristique a,
-                        tincidunt ac eros. Fusce iaculis viverra sem a dictum. Etiam vehicula, nisi sed convallis ultricies, lacus risus sodales sapien,
-                        malesuada finibus dolor eros nec turpis.
+                        Feedly est un agréggateur de flux RSS que j'utilise en fin de semaine principalement pour recueillir des article sur les sujets
+                        qui m'intéressent dans le monde de la tech via des sources comme : Developpez.com .
+                        Ou tout simplement pour suivre les "grosses" evolutions majeurs des technologies que j'utilise le plus.
                     </p>
                 </div>
             </div>
