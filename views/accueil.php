@@ -4,7 +4,7 @@
             <div class="container">
                 <div class=".col-12 .col-sm-6 .col-xs-8">
                     <div class="jumbotron">
-                        <h2 class="display-5 text-center mt-4">Nassim AHMED ALI | Etudiant en BTS SIO</h2>
+                        <h2 class="display-5 text-center mt-4">Nassim AHMED ALI | Etudiant </h2>
                         <hr class="my-4">
                         <div class="row">
                             <div class="container-fluid">
@@ -15,11 +15,11 @@
                         </div>
                         <br>
                         <p>
-                            Passioné d'informatique et toujours désireux d'en apprendre plus.
-                            Vous pouvez retrouvez sur ce portfolio mes différentes : réalisations, projet, etc...
-                            Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans.<br>
-                            Je suis également passionné par la lecture (Manga, BD, ...), les voyages (culturel) et jeux video (J-RPG en tout genres il m'arrive d'en crée aussi),
-                            et un amateur d'échecs et de bon café !  
+                        Passionner d'informatique est toujours désireux d'en apprendre plus. 
+                        Vous pouvez retrouver sur ce portfolio mes différentes : réalisations, projet, etc.
+                        Actuellement en recherche d'une alternance pour une formation en cycle d'ingénierie en informatique de 3 ans a l'institut G4. 
+                        Je suis également passionné par la lecture (manga, BD, ...), les voyages (culturels) et jeux video (J-RPG en tous genre, il m'arrive d'en créer aussi), 
+                        Et un amateur d'échecs et de bon café !   
                         </p>
                         <div class="text-center mt-4">
                             <a class="btn btn-outline-primary" data-toggle="modal" data-target="#cv" style="color: white;">
@@ -59,6 +59,16 @@
                                 <hr class="my-4">
                                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                                     <div class="flex-grow-1">
+                                        <h3 class="mb-0">Alternance</h3>
+                                        <div class="subheading mb-3">LGP Solutions - Aix en provence</div>
+                                        <p>
+                                            Développement d'applications mobile en utilisant le framework .NET Xamarin.
+                                        </p>
+                                    </div>
+                                    <div class="flex-shrink-0"><span class="text-primary">Septembre 2021 - Aout 2022</span></div>
+                                </div>
+                                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                                    <div class="flex-grow-1">
                                         <h3 class="mb-0">Stage seconde année</h3>
                                         <div class="subheading mb-3">DIRISI/CDAD - Toulon</div>
                                         <p>
@@ -72,7 +82,7 @@
                                         <h3 class="mb-0">Agent d'accueil navettes maritimes</h3>
                                         <div class="subheading mb-3">Régie des Transports Métropolitain - Marseille</div>
                                         <p>
-                                            Accueil clientelle, Gestion des embarquements.
+                                            Accueil clientèle, Gestion des embarquements.
                                         </p>
                                     </div>
                                     <div class="flex-shrink-0"><span class="text-primary">Juin 2020</span></div>

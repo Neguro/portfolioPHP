@@ -92,6 +92,9 @@
                                 <div class="carousel-item">
                                     <img src="../assets/images/unreal.svg" width="200" height="200" alt="Unreal" />
                                 </div>
+                                <div class="carousel-item">
+                                    <img src="../assets/images/xamarin.svg" width="200" height="200" alt="Unreal" />
+                                </div>
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
