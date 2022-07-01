@@ -62,7 +62,7 @@
                                         <h3 class="mb-0">Alternance</h3>
                                         <div class="subheading mb-3">LGP Solutions - Aix en provence</div>
                                         <p>
-                                            Développement d'applications mobile en utilisant le framework .NET Xamarin.
+                                            Développement d'applications mobile cross-platform en utilisant le framework .NET Xamarin.
                                         </p>
                                     </div>
                                     <div class="flex-shrink-0"><span class="text-primary">Septembre 2021 - Aout 2022</span></div>
@@ -116,7 +116,7 @@
                                         <h3 class="mb-0">Cycle d'ingénierie en informatique</h3>
                                         <div class="subheading mb-3">Institut G4 - Marseille</div>
                                         <p>
-                                            Cycle d'ingénierie en informatique en 3 ans.
+                                            Cycle d'ingénierie en informatique en 3 ans. (Actuellement en fin de première année)
                                         </p>
                                     </div>
                                     <div class="flex-shrink-0"><span class="text-primary">Septembre 2021 - 2024</span></div>
